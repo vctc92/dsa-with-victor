@@ -1,0 +1,11 @@
+{
+  "name": "dsa-with-victor",
+  "version": "1.0.0",
+  "description": "learn and execute dsa problems",
+  "type": "module",
+  "scripts": {
+    "problem": "node scripts/run.js"
+  },
+  "author": "Victor Rajkumar",
+  "license": "ISC"
+}
